@@ -5,7 +5,7 @@
 
 
 ## SIMPOR
-This repo implement the idea in the manuscript SIMPOR, a imbalanced learning approache which generates synthetic samples for minority that maximizing posterior ratio. 
+This repo implements the idea in the manuscript SIMPOR, a imbalanced learning approache which generates synthetic samples for minority that maximizing posterior ratio. 
 
 (The paper is under review and code is still under development. Please stay tuned. )
 
