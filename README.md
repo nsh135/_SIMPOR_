@@ -7,7 +7,7 @@
 ## SIMPOR
 This repo implements the idea in the manuscript SIMPOR, a imbalanced learning approache which generates synthetic samples for minority that maximizing posterior ratio. 
 
-(The paper is under review and code is still under development. Please stay tuned. )
+(The paper is under review and code is under development. Please stay tuned. )
 
 * Set up the environment using pip with the requirment in 'environment.txt'
 
